@@ -3,7 +3,7 @@
 
 [docs](./docs/index.md)
 
-## e2e-react-core
+## react-e2e
 
 End to End test a create-react-app bootstrapped React App 
 using cucumber and nightwatch API.
